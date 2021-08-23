@@ -1,4 +1,0 @@
-Added Component: Designator=P1(Magnet)
-Added Pin To Net: NetName=+BAT Pin=P1-1
-Added Pin To Net: NetName=-BAT Pin=P1-2
-Added Member To Class: ClassName=remoteFK01 Member=Component P1 Battery holder
